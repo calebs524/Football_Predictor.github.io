@@ -3,6 +3,8 @@
     "Location": "$Location",
     "Home Team": "$Home_Team",
     "Away Team": "$Away_Team",
+    "Home Team Record": "Record",
+    "Away Team Record": "Record",
     "Date": "$Date",
     "Time": "$Time",
     "Winner": "$Winner",
