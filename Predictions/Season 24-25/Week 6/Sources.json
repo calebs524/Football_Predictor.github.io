@@ -16,5 +16,21 @@
         "Los Angeles Rams",
         "Miami Dolphins",
         "Minnesota Vikings"
+    ],
+    "games": [
+        "49ers@Seahawks.json",
+        "Bengals@Giants.json",
+        "Bills@Jets.json",
+        "Browns@Eagles.json",
+        "Buccaneers@Saints.json",
+        "Cardinals@Packers.json",
+        "Chargers@Broncos.json",
+        "Colts@Titans.json",
+        "Commanders@Ravens.json",
+        "Falcons@Panthers.json",
+        "Jaguars@Bears.json",
+        "Lions@Cowboys.json",
+        "Steelers@Raiders.json",
+        "Texans@Patriots.json"
     ]
 }
