@@ -9,5 +9,11 @@
         "https://www.pro-football-reference.com/teams/was/2024.htm",
         "https://www.pro-football-reference.com/teams/nyg/2024.htm",
         "https://www.steelers.com/team/injury-report/"
+    ],
+    "Bye Teams": [
+        "Kansas City Chiefs",
+        "Los Angeles Rams",
+        "Miami Dolphins",
+        "Minnesota Vikings"
     ]
 }
