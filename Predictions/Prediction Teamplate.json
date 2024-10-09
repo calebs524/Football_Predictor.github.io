@@ -1,0 +1,11 @@
+{
+    "Game": "$Game",
+    "Location": "$Location",
+    "Home Team": "$Home_Team",
+    "Away Team": "$Away_Team",
+    "Date": "$Date",
+    "Time": "$Time",
+    "Winner": "$Winner",
+    "Score": "$Score",
+    "Comments": "Comments"
+}
