@@ -1,10 +1,11 @@
 const weekNumber = 6; // You can change this to load different weeks dynamically
-const weekPath = `/Predictions/Season 24-25/Week ${weekNumber}/`;
-const sourcesFile = 'Sources.json'; // File that lists all the JSON games for this week
+const weekPath = `/Predictions/Season_24-25/Week_${weekNumber}/`;
+const sourcesFile = `${weekPath}Sources.json`; // File that lists all the JSON games for this week
 
 const predictionsDiv = document.getElementById('predictions');
 
 // Fetch the Sources.json file to get the list of game files
+console.log(sourcesFile)
 fetch(weekPath + sourcesFile)
     .then(response => response.json())
     .then(data => {
@@ -18,6 +19,7 @@ fetch(weekPath + sourcesFile)
 // Function to fetch and display data from each game JSON file
 function loadGameData(filePath) {
     fetch(filePath)
+    console.log(filePath)
         .then(response => response.json())
         .then(data => {
             const gameInfo = `
