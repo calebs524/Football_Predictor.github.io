@@ -14,8 +14,7 @@ function loadPredictions() {
         })
         .then(data => {
             // Add line breaks before each "Game:" and replace other newlines with HTML line breaks
-            const formattedText = data.replace(/("Game:")/g, '<br><br>$1').replace(/\n/g, '<br>');
-            predictionsDiv.innerHTML = formattedText;
+            predictionsDiv.innerHTML = data;
         })
         .catch(error => {
             predictionsDiv.textContent = 'Error loading predictions: ' + error.message;
