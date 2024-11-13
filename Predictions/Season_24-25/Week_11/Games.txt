@@ -1,4 +1,4 @@
-Commanders @ Eagles
+Game:Commanders @ Eagles
 Commanders: 7-3
 Eagles: 7-2
 Thursday 7:15 PM CST
@@ -10,7 +10,7 @@ Kliff and Jayden will have a tough time against Fangio and this defense, with Co
 bringing the pressure against Brian Robinson and Scary Terry. I think the Eagles and their experience will extend their lead 
 in the NFC East, beating out the commanders in a shootout, 38 - 35.
 
-Raiders @ Dolphins
+Game:Raiders @ Dolphins
 Raiders: 2-7
 Dolphins: 3-6
 Sunday 12:00 PM CST
@@ -19,7 +19,7 @@ like a last chance for both teams. Dolphins come off a much needed win from thei
 well rested from their bye. The only bright spots on the Raiders team is Pass Rusher Crossby and Tight end brock bowers, who is 
 exceeding beyond expectations with Minshew at the helm. Dolphins are going to steal candy from a baby in this one, 27 - 13.
 
-Browns @ Saints
+Game:Browns @ Saints
 Browns: 2-7
 Saints: 3-7
 Sunday 12:00 PM CST
@@ -31,7 +31,7 @@ much healthier with their O Line, but their recieving core outside MVS (who IS N
 defense doesn't look too hot, but their offense looks more invigorated with Winston chucking the ball around (even it it's too the other team).
 Browns will take this one, 21 - 17.
 
-Colts @ Jets
+Game:Colts @ Jets
 Colts: 4-6
 Jets: 3-7
 Sunday 12:00 PM CST
@@ -42,13 +42,13 @@ him, but we'll see on that. As for the Jets, this team is just making mistake af
 and no one unit is awful, but a lot of medicore and bad units aren't going to win you games. I think the Colts find the stride back in this one,
 AR becomes the player he needs to be, and Rodgers is left on his ass with nothing to show: Colts 27 - 26.
 
-Vikings @ Titans
+Game:Vikings @ Titans
 Vikings: 7-2
 Titans: 2-7
 Sunday 12:00 PM CST
 I'm pretty open to trying new stuff outside 3 things: scuba diving, mayonaise, and rooting for Will Levis. Vikings, 42 - 20.
 
-Packers @ Bears
+Game:Packers @ Bears
 Packers: 6-3
 Bears: 4-5
 Sunday 12:00 PM CST
@@ -58,14 +58,14 @@ offsense stats don't have me hopeful. The firing of Waldron and replacing him wi
 the most it'll do is give Caleb the opportunity to get the ball to his recievers. If the Bears can come away from this game with >= 200 
 passing yards and at least 2 passing TDs, then I'll have hope. As for the Packers, there's no question: Packers win it, 34 - 20.
 
-Jaguars @ Lions
+Game:Jaguars @ Lions
 Jaguars: 2-8
 Lions: 8-1
 Sunday 12:00 PM CST
 I don't think we will ever see 2021 Mac Jones. This team is already looking for coaches to replace Pederson. Honestly, Lions can probably
 rest their starters this game and still bash the Jags. Lions, 45 - 10.
 
-Rams @ Patriots
+Game:Rams @ Patriots
 Rams: 4-5
 Patriots: 3-7
 Sunday 12:00 PM CST
@@ -76,7 +76,7 @@ seem like Maye's targets, but he'll need a lot more help if he wants to bring ho
 slow. Stafford starting to show signs of his age, throwing multiple interceptions these past 2 games, and missing redzone targets. The Pat's
 defense has been stought tho, and looks to provide a challenge against the Rams. I think Pats will steal this in a last second field goal: 24-23.
 
-Ravens @ Steelers
+Game:Ravens @ Steelers
 Ravens: 7-3
 Steelers: 7-2
 Sunday 12:00 PM CST
@@ -89,7 +89,7 @@ Flipping the script, Lamar is proving to be a back to back MVP candidate, using 
 playcalling is making this train roll smoothly. On defense, Zach Orr is getting the job done, even with Kyle Hamilton questionable. This game is one of the 
 reason's I'm so invested with the sport. I think Steelers and Russ cook on this one, 34 - 31.
 
-Seahawks @ 49ers
+Game:Seahawks @ 49ers
 Seahawks: 4-5
 49ers: 5-4
 Sunday 3:05 PM CST
@@ -101,7 +101,7 @@ On the flip side, the Seahawks are really going through the feels. The offense j
 signs of coming back but progress is still slow. Whatever happens wit the Seahawks, it's going to take a lot to bring them into the NFC playoff picture.
 49ers take this one, 27 - 24.
 
-Falcons @ Broncos
+Game:Falcons @ Broncos
 Falcons: 6-4 
 Broncos: 5-5
 Sunday 3:05 PM CST
@@ -114,7 +114,7 @@ per game. He and Zac Robinson are going to need to activate Mooney, Bijan, Drake
 rookie of the year, and his offense is looking more in sync. The Falcons secondary is giving up too many yards, and their pass rush isn't getting to the qb 
 fast enough. Broncos have been in a rut and will use this opportuinty to get out; Broncos 28 - 18.
 
-Chiefs @ Bills
+Game:Chiefs @ Bills
 Chiefs: 9-0
 Bills: 8-2
 Sunday 3:25 PM CST 
@@ -124,7 +124,7 @@ group to stop this high powered offense. Sean's D looks solid, and matches up de
 going to be as fun as Ravens Steelers but will be big for playoff implications. I'm going with the upset on this, Bills are breaking the Cheifs undefeated 
 record, 26 - 24.
 
-Bengals @ Chargers
+Game:Bengals @ Chargers
 Bengals: 4-6
 Chargers: 6-3
 Sunday 7:25 PM
@@ -134,7 +134,7 @@ QB with a stout OL and tough recievers, while a defense holding teams to low poi
 Bengals offense duel it out, but I think the Chargers Offense is going to unlock Quinton Johnson and Herbert's deep passing ability to edge out the Bengals 
 defense. Chargers will take it, 34 - 33.
 
-Texans @ Cowboys
+Game:Texans @ Cowboys
 Texans: 6-4
 Cowboys: 3-6
 Monday 7:15 PM
@@ -142,7 +142,7 @@ You ever see that meme of "Just checking to see if yall still dem boyz" with Car
 go ahead and add Stroud to that already, this Cowboys team is done for the year. Jerry should have fired McCarthy after that Massacre 
 last Janurary, and is now paying the price. Texans bounce back with a big state win, 42 - 3.
 
-Teams On Bye: 
+Game:Teams On Bye: 
 Arizona Cardinals
 Carolina Panthers
 New York Giants
