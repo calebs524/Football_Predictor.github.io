@@ -32,6 +32,7 @@ function loadGameData(filePath) {
                     <p><strong>Winner:</strong> ${data.Winner}</p>
                     <p><strong>Score:</strong> ${data.Score}</p>
                     <p><strong>Comments:</strong> ${data.Comments}</p>
+                    <p><strong>Post Game Analysis:</strong> ${data['Post Game Analysis']}</p>
                 </div>
             `;
             predictionsDiv.innerHTML += gameInfo;

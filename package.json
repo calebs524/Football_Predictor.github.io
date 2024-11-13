@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "name": "football_predictor",
+  "version": "1.0.0",
+  "description": "This is going to be a football Preiction site, where I list my football predictions for every week.\r This is all my original ideas and content.\r All Sources will be listed.",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }

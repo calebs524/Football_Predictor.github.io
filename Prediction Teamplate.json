@@ -9,5 +9,6 @@
     "Time": "$Time",
     "Winner": "$Winner",
     "Score": "$Score",
-    "Comments": "Comments"
+    "Comments": "Comments",
+    "Post Game Analysis": "Post Game Analysis"
 }

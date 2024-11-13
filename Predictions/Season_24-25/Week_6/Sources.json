@@ -22,7 +22,7 @@
         "Bengals@Giants.json",
         "Bills@Jets.json",
         "Browns@Eagles.json",
-        "Buccaneers@Saints.json",
+        "Bucaneers@Saints.json",
         "Cardinals@Packers.json",
         "Chargers@Broncos.json",
         "Colts@Titans.json",
@@ -32,5 +32,6 @@
         "Lions@Cowboys.json",
         "Steelers@Raiders.json",
         "Texans@Patriots.json"
-    ]
+    ],
+    "Prediction Score": "12-2"
 }
