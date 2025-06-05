@@ -149,24 +149,24 @@ function loadPredictions() {
 
 
 // Load the about.txt file into index.html
-function loadBlurb() {
-    const blurbDiv = document.getElementById('blurb');
+// function loadBlurb() {
+//     const blurbDiv = document.getElementById('blurb');
 
-    fetch('about.txt')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Failed to fetch the file.');
-            }
-            return response.text();
-        })
-        .then(data => {
-            // Display text with new lines as HTML line breaks
-            blurbDiv.innerHTML = data.replace(/\n/g, '<br>');
-        })
-        .catch(error => {
-            blurbDiv.textContent = 'Error loading content: ' + error.message;
-        });
-}
+//     fetch('about.txt')
+//         .then(response => {
+//             if (!response.ok) {
+//                 throw new Error('Failed to fetch the file.');
+//             }
+//             return response.text();
+//         })
+//         .then(data => {
+//             // Display text with new lines as HTML line breaks
+//             blurbDiv.innerHTML = data.replace(/\n/g, '<br>');
+//         })
+//         .catch(error => {
+//             blurbDiv.textContent = 'Error loading content: ' + error.message;
+//         });
+// }
 
 // Determine which page is loaded and run appropriate function
 document.addEventListener('DOMContentLoaded', () => {
