@@ -10,44 +10,45 @@
     <style>
         /* Styling the page with a white background and black text */
         body {
-            background-color: white;
-            color: black;
-            font-family: Arial, sans-serif;
+            background-color: #F7F4EA;
+            color: #1A1326;
+            font-family: Arial, serif;
             margin: 0;
             padding: 0;
             text-align: center;
         }
 
         header {
-            background-color: #333;
-            color: white;
+            background-color: #4B286D;
+            color: #FFD700;
             padding: 1em;
         }
 
         header h1 {
-            color: white;
-            /* Changes the font color to white */
+            color: #FFD700;
             font-weight: bold;
-            /* Makes the font bold */
         }
-
 
         nav ul {
             list-style-type: none;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
         }
 
         nav ul li {
-            display: inline;
-            margin: 0 15px;
+            margin: 0;
         }
 
         nav ul li a {
-            color: white;
-            text-decoration: none;
+            color: #FFD700;
+            text-decoration: underline;
             font-weight: bold;
+            font-size: 1.3em;
         }
+
 
         main {
             margin: 50px auto;
@@ -55,20 +56,18 @@
             text-align: center;
         }
 
-        /* Blurb box with subtle shadow for better visual appeal */
         .blurb {
-            background-color: #f0f0f0;
+            background-color: #FFFFFF;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 0px 15px rgba(75, 40, 109, 0.08);
             margin-top: 30px;
         }
 
         footer {
-            background-color: #333;
-            color: white;
+            background-color: #231942;
+            color: #FFD700;
             padding: 1em;
-            position: fixed;
             bottom: 0;
             width: 100%;
         }
@@ -84,6 +83,7 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="predictions.html">Predictions</a></li>
+                <li><a href="TAB.html">Team Accquisition Breakdowns</a></li>
                 <!-- <li><a href="about.html">About</a></li> -->
             </ul>
         </nav>
@@ -99,6 +99,34 @@
             Loading content...
         </div>
     </main>
+
+    <section class="about-section">
+        <img class="about-img" src="img\chicago.jpg" alt="Chicago Map">
+        <div class="about-text">
+            <h2>About Me</h2>
+            <p>Hi. I am a football enthusiast. I am a Bears fan, a Chicago native. I've been watching since I was 10 and
+                for the last couple of years, have really paid attention to the different types of moves teams have
+                made, in terms of trades, acquisitions, contracts, and hires. I enjoy learning about different schemes
+                and moves set by teams, and I will continue to be interested in football.</p>
+        </div>
+        <img class="about-img" src="img\football.jpg" alt="Bear Logo">
+    </section>
+
+    <br>
+
+
+    <section class="about-section">
+        <img class="about-img" src="img\signing.jpg" alt="Chicago Map">
+        <div class="about-text">
+            <h2>Goals</h2>
+            <p>The goal of this page is to offer an indepth view of what happens in the league. With the trades, new
+                accuqisions/signings, cuts, and other football operations, there is more than what is happening at a
+                surface level. My goal is to educate the average football enjoyer on what is really happening in the
+                league.</p>
+        </div>
+        <img class="about-img" src="img\knowing.jpg" alt="Knowledge">
+    </section>
+
 
     <!-- Footer section -->
     <footer>
