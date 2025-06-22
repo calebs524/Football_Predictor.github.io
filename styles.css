@@ -233,3 +233,16 @@ footer {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(75, 40, 109, 0.08);
 }
+
+.articles-section h1 {
+    text-align: center;
+    /* center the header */
+    font-size: 3.0em;
+    /* make it bigger */
+    font-weight: bold;
+    /* ensure it's bold */
+    margin-bottom: 20px;
+    /* spacing below */
+    color: #1A1326;
+    /* match your site colors */
+}
