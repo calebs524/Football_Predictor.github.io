@@ -212,3 +212,24 @@ footer {
     background: #fffbe6;
     margin-bottom: 0.4em;
 }
+
+.img-Moves {
+    display: block;
+
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(44, 18, 62, 0.1);
+    width: 600px;
+    object-fit: cover;
+    border-radius: 16px;
+    background: #e5dccc;
+}
+
+.section-Moves {
+    margin: 30px auto;
+    width: 90%;
+    max-width: 700px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(75, 40, 109, 0.08);
+}
