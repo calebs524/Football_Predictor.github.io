@@ -21,7 +21,8 @@ function loadLoveDraft() {
                     sectionHtml += `<div class="section-Moves"><img class="img-Moves" src="Moves/Love_Draft/JLD/${imgPath}" alt="Draft image">`;
                 } else if (line.startsWith('Text:')) {
                     const text = line.replace('Text:', '').trim();
-                    sectionHtml += `<p>${text}</p>`;
+                    const text2 = text.replace(/\n/g, ' ');
+                    sectionHtml += `<p>${text2}</p>`;
                 } else if (line === '') {
                     sectionHtml += '</div>';  // Close section on empty line
                 } else {

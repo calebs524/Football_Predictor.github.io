@@ -228,10 +228,21 @@ footer {
     margin: 30px auto;
     width: 90%;
     max-width: 700px;
-    background: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(75, 40, 109, 0.08);
+    padding: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.section-Moves p {
+    max-width: 700px;
+    /* or 700px — experiment with what looks good */
+    margin: 0 auto;
+    /* center the block itself */
+    text-align: left;
+    /* left-align text for natural reading flow */
+    line-height: 1.6;
+    /* improve readability */
 }
 
 .articles-section h1 {
