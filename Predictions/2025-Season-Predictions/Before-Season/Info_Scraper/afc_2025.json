@@ -1,0 +1,130 @@
+[
+  {
+    "team": "Baltimore Ravens",
+    "win_total": "over 11.5 (+100)",
+    "make_playoffs": "-450",
+    "win_division": "-135",
+    "win_conference": "+330",
+    "win_super_bowl": "+700"
+  },
+  {
+    "team": "Buffalo Bills",
+    "win_total": "under 12.5(-155)",
+    "make_playoffs": "-700",
+    "win_division": "-250",
+    "win_conference": "+330",
+    "win_super_bowl": "+700"
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "win_total": "over 10.5 (-160)",
+    "make_playoffs": "-360",
+    "win_division": "-135",
+    "win_conference": "+390",
+    "win_super_bowl": "+800"
+  },
+  {
+    "team": "Denver Broncos",
+    "win_total": "Push",
+    "make_playoffs": "-125",
+    "win_division": "+390",
+    "win_conference": "+1200",
+    "win_super_bowl": "+2800"
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "win_total": "under 9.5 (-105)",
+    "make_playoffs": "-120",
+    "win_division": "+325",
+    "win_conference": "+1400",
+    "win_super_bowl": "+2600"
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "win_total": "under 10.5 (-145)",
+    "make_playoffs": "-175",
+    "win_division": "+225",
+    "win_conference": "+850",
+    "win_super_bowl": "+1800"
+  },
+  {
+    "team": "Houston Texans",
+    "win_total": "under 9.5 (-150)",
+    "make_playoffs": "-140",
+    "win_division": "+110",
+    "win_conference": "+1700",
+    "win_super_bowl": "+3500"
+  },
+  {
+    "team": "Miami Dolphins",
+    "win_total": "over 7.5 (-160)",
+    "make_playoffs": "+160",
+    "win_division": "+550",
+    "win_conference": "+2500",
+    "win_super_bowl": "+6000"
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "win_total": "under 8.5 (-145)",
+    "make_playoffs": "+140",
+    "win_division": "+500",
+    "win_conference": "+1800",
+    "win_super_bowl": "+3500"
+  },
+  {
+    "team": "New England Patriots",
+    "win_total": "over 7.5 (-170)",
+    "make_playoffs": "+160",
+    "win_division": "+625",
+    "win_conference": "+4000",
+    "win_super_bowl": "+6500"
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "win_total": "over 7.5 (-105)",
+    "make_playoffs": "+160",
+    "win_division": "+330",
+    "win_conference": "+6500",
+    "win_super_bowl": "+15000"
+  },
+  {
+    "team": "Indianapolis Colts",
+    "win_total": "over 7.5 (-110)",
+    "make_playoffs": "+160",
+    "win_division": "+310",
+    "win_conference": "+5500",
+    "win_super_bowl": "+10000"
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "win_total": "under 7.5 (-130)",
+    "make_playoffs": "+260",
+    "win_division": "+1400",
+    "win_conference": "+3500",
+    "win_super_bowl": "+8000"
+  },
+  {
+    "team": "New York Jets",
+    "win_total": "over 5.5 (-170)",
+    "make_playoffs": "+425",
+    "win_division": "+1100",
+    "win_conference": "+6500",
+    "win_super_bowl": "+15000"
+  },
+  {
+    "team": "Tennessee Titans",
+    "win_total": "over 5.5 (-150)",
+    "make_playoffs": "+425",
+    "win_division": "+675",
+    "win_conference": "+10000",
+    "win_super_bowl": "+17500"
+  },
+  {
+    "team": "Cleveland Browns",
+    "win_total": "over 5.5 (-105)",
+    "make_playoffs": "+800",
+    "win_division": "+2600",
+    "win_conference": "+9000",
+    "win_super_bowl": "+20000"
+  }
+]
