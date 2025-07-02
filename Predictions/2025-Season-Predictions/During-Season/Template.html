@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Talent Accquisition Page">
-    <title>Talent Accquisition</title>
+    <meta name="description" content="Football Predictions Page">
+    <title>Predictions</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your external CSS file -->
     <style>
         /* Styling the page with a white background and black text */
@@ -27,7 +27,6 @@
         header h1 {
             color: #FFD700;
             font-weight: bold;
-            font-size: 2.5em;
         }
 
         nav ul {
@@ -90,42 +89,24 @@
         </nav>
     </header>
 
+    <!-- Main content to display predictions -->
+    <main>
+        <h2>Week 11 Game Predictions</h2>
+        <p>Here are the predictions for this week's games:</p>
 
-
-
-    <section class="about-section">
-        <div class="about-text">
-            <h1>How do Predictions Work in Football?</h1>
-            <p> Predicting the game of football is a very volatile activity. Anything can happen: injuries, cuts,
-                trades,
-                coaches getting fired. It's hard to make predictions on games, a team's season, and even who wins the
-                superbowl.
-                For example, no one predicted the Commanders getting to the NFC champtionship in 2025, but it happened.
-                In this section,
-                I provide my own "predictions" for the 2025 season. Some will be based on teams, some based on players,
-                but everything is
-                my own opinion. I don't pretend to know everything, because I don't. All I can do is tell you what I
-                think "could" happen. </p>
+        <!-- Container for game predictions -->
+        <div id="predictions" class="blurb prediction-container">
+            <!-- Predictions will be dynamically loaded here -->
+            Loading predictions...
         </div>
-    </section>
-
-    <section class="articles-section">
-        <div>
-            <h2>Articles</h2>
-            <h2>
-                <a href="Predictions\2025-Season-Predictions\Before-Season\AFC\East\Dolphins\dol.html">Miami Dolphins
-                    2025 Predictions</a>
-            </h2>
-        </div>
-    </section>
+    </main>
 
     <!-- Footer section -->
     <footer>
         <p>© 2024 Football Predictions. All Rights Reserved.</p>
     </footer>
 
-
-    <!-- Link to the external JavaScript file -->
+    <!-- Link to the JavaScript file to handle dynamic loading -->
     <script src="script.js"></script>
 
 </body>
