@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function loadLoveDraft() {
-    fetch('RVLD.txt')
+    fetch('dolphins.txt')
         .then(response => {
             if (!response.ok) {
                 throw new Error(`Could not load file: ${response.statusText}`);
@@ -18,7 +18,7 @@ function loadLoveDraft() {
                 line = line.trim();
                 if (line.startsWith('Image:')) {
                     const imgPath = line.replace('Image:', '').trim().replace(/"/g, '');
-                    sectionHtml += `<div class="section-Moves"><img class="img-Moves" src="JLD/${imgPath}" alt="Draft image">`;
+                    sectionHtml += `<div class="section-Moves"><img class="img-Moves" src="${imgPath}" alt="Draft image">`;
                 } else if (line.startsWith('Text:')) {
                     const text = line.replace('Text:', '').trim();
                     const text2 = text.replace(/(\r\n|\r|\n)/g, ' ');
