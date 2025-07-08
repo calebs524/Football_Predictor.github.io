@@ -35,7 +35,7 @@ The reason why Richardson was valued so highly was his athletic traits. The comb
 revolutionize the game, and seemed to become the next Josh Allen. Pairing an athletic freak of nature and a QB guru seemed like a 
 match made in heaven, so why does the floor seem to be falling out now?
 
-Image: AR_INJ.jpeg
+Image: IMG/AR_INJ.jpeg
 
 Text: The short answer: He hasn't had enough time on the field. Richardson's rookie season was cut short due to a season-ending AC joint sprain in his throwing shoulder, 
 requiring surgery. That season, Gardner Minshew, who had previous expereince with Steichen in Philly, was under center to lead the Colts to a 9-8 season. During
@@ -60,6 +60,8 @@ former defensive coordinator Gus Bradley's job, as the Colts defense was too tal
 week 17 loss, where the 2-14 Giants put up 45 points against the Colts with backup quarter Drew Lock. 
 This loss elimated the Colts from playoff contention, and sealed Bradley's fate, as he was fired shortly after the regular season. 
 
+Image: IMG/LA.jpeg
+
 Text: While fixing the defense wouldn't solve all their problems it would definetly patch up major holes. The first thing to do was find 
 the right captain to lead this unit. Lou Anarumo, former defensive coordinator from the Bengals, was also fired this off-season. While 
 his defense wasn't as elite as it in previous years, and was one of the bigger reasons for the Bengals not making the playoffs in 2024, 
@@ -67,14 +69,27 @@ I don't believe Anarumo is completely at fault. I won't go on a tangent, but the
 defensive players, including pro bowl saftey Jessie Bates III and DT DJ Reader. With that said, Lou definetly made some questionable calls 
 in 2024, and gets a chance to redeem himself with a new team and roster. 
 
+Image: IMG/CB_CW.jpeg
 
+Text: In addition to hiring Anarumo, the Colts overhauled their secondary. They spent in free agency, adding CB Charvarius Ward from the 49ers 
+and FS Cam Bynum from the Vikings. Additionally, they drafted DE JT Tuimoloau from Ohio State, CB Justin Walley from Minnesota, and DL Tim Smith
+from Alabama. Clearly, the Colts prioritized fixing up the secondary by adding both depth and expereince, and are now one step closer to making that 
+deep playoff run all of Indi has been waiting for.
 
-Text: While Richardson may not have become the elite qb everyone was expecting, the Colts season wasn't all doom and gloom. 
-The 2024 preseason odds had the Colts at 8.5 wins, and they finished just slightly under. This team, while not having a solid passer,
- averaged 22.2 points per game (17th) and allowed 25.1 points per game on average on defense (24th). These aren't elite numbers, but they
-  aren't awful either, and the team was able to fix up some of the holes this off season.
+Image: IMG/DJ.jpeg
 
+Text: Additionally, the Colts upgraded their offense by adding competition and options. With Richardson's future up in the air, this team needs a 
+solution now. For the Colts, the answer is QB Daniel Jones. Now Jones does share fault for what happened with the Giants, but it's also unrealistic to 
+pin all the blame on him. While Jones wasn't the perfect QB in New York, he was put in a crappy situation, and is now coming to a situation with an 
+arguably top 10 offensive supporting cast, including a strong offensive line, playcaller, and receiving group. Speaking of the receiving group, the 
+Colts upgraded an already solid arsenal by adding TE Tyler warren from Penn State, who had over 1200 receiving yards and 8 TDs in 2024, and had a 
+93.1 PFF grade in college. 
 
+Text: The truth is that this Colts team is in a win now mode. Everyone is under pressure: Chris Ballard and Shane Steichen both need playoff wins, Daniel 
+Jones may not get another shot, and Anthony Richardson is close to being labled as a bust. This roster is stacked, and nearly all the holes outside of 
+quaterback are filled. Whoever wins the starting job between Richardson or Jones is going to have to prove himself every week. The lines have the Colts at 
+over 7.5, and I'm predicting they win 10-11 games this season. Steichen and Anarumo have the expereince of going to the superbowl, and many players on this 
+roster know what it takes to win. Whoever starts at QB doesn't have to be elite: they have to be competent enough to manage this team and win the close games.
 
 
 References:
@@ -98,3 +113,9 @@ https://www.pro-football-reference.com/teams/sdg/2020.htm
 https://www.indystar.com/story/sports/nfl/colts/2023/02/14/colts-with-bryce-young-quip-jim-irsay-acknowledges-need-to-draft-qb/69904093007/
 https://www.indystar.com/picture-gallery/sports/nfl/colts/2024/09/29/anthony-richardson-hurt-photos-of-colts-qbs-injury-vs-steelers/75442874007/
 https://www.indystar.com/story/sports/nfl/colts/2023/10/20/colts-the-hurt-and-healing-of-anthony-richardsons-shoulder-injury/71198152007/#:~:text=The%20Colts%20rookie%20quarterback%20sprained%20his%20AC,defender%20pinned%20his%20shoulder%20to%20the%20turf.
+https://www.si.com/nfl/colts/news/colts-lou-anarumo-raves-new-elite-defender
+https://www.espn.com/nfl/draft2025/story/_/id/44560218/indianapolis-colts-2025-nfl-draft-picks-full-list-round-depth-chart
+https://www.sports-reference.com/cfb/players/tyler-warren-1.html
+https://coltswire.usatoday.com/story/sports/nfl/colts/2025/06/23/pff-grades-for-tyler-warren-and-indianapolis-colts-tight-ends/84319272007/
+https://www.indystar.com/story/sports/nfl/colts/2025/03/11/colts-free-agency-overhaul-of-secondary-cam-bynum-charvarius-ward-chris-ballard/82244848007/
+https://coltswire.usatoday.com/story/sports/nfl/colts/2025/06/13/5-things-to-know-indianapolis-colts-minicamp-daniel-jones-tyler-warren-and-more/84182732007/
