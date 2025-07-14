@@ -1,0 +1,131 @@
+Title: Rebuild in the Pacific Northwest
+
+Image: IMG/SEA_Intro.jpg
+
+Text: After just missing the playoffs in 2024 with a 10-7 record, the Seahawks zigged when everyone thought they would zag. Many sports analysts
+and media outlets were suprised at the roster moves, such as moving off Geno Smith and DK Metcalf. ESPN analyst Mina Kimes ripped into this, and 
+rightfully so: A team that barely missed the postseason due to strength of victory should be going all in, not rebuilding. The question shouldn't 
+be why is this team rebuilding, but rather is this the best that this version of the Seattle Seahawks roster could have done? Did this core hit 
+their ceiling?
+
+Image: IMG/DK_GS_TL.jpg
+
+Text: Every offseason, teams are forced to make cuts. Even the Eagles, with genius General Manager Howie Roseman were forced to move on from players 
+part of their championship roster, and the Seahawks were no exception to this. Looking at the offensive core of Geno Smith, DK Metcalf, and Tyler Lockett,
+not only was this trio older, but also costing a lot of cap dollars, which could be used for younger players. Looking at the numbers, moving on from 
+the three saved the Seahawks almost $60 million against the cap. This is huge, especially when this roster has many other holes that needed to be filled.
+
+Text: This offseason, the Seahawks took on a dead cap of $67,253,124, ranking 4th in the league. Teams that are taking on this dead cap are often considered 
+to be rebuilding, as they are swapping older and pricier veterans for younger and cheaper talent. And the best way to make sure the team keeps performing well
+with cheaper talent is through the draft. Trading away Geno Smith and DK Metcalf gave the Seahawks a 2nd, 3rd, and 7th round pick. This may not seem like a 
+huge haul, but getting multiple day 2 picks for veterans looking for a new contract is a smart way to replenish a roster. 
+
+Table: dep_table
+
+Text: The table above shows the roster cuts and trades the Seahawks made this past offseason. Looking at the older players, including the offensive trio 
+mentioned above, Dre'Mont Jones, and Roy Robertson-Harris, it made sense for the Seahawks to move off these players. Sure, loosing older players means 
+veteran experince and locker room leadership is lost, but that isn't the worst thing if you're saving cap dollars for cheaper and more effective players. 
+While the Seahawks are carrying a lot of dead cap, they have saved $82,282,500 through trades and cuts, providing them with the flexibility to make various 
+moves in free agency and the draft.
+
+Image: IMG/GS_int.jpeg
+
+Text: Before I talk about the roster additions the Seahawks made this season, it's important to understand why the Seahawks went in this direction.
+As I mentioned in the beginning, this was a 10 win roster that barely missed the post-season, so why reset now. The first reason is that this core had 
+hit it's ceiling. Sure, the offensive trio of Geno Smith, Tyler Lockett, and DK Metcalf weren't the youngest players, but they also weren't the best 
+available. 
+
+Text: Now before I start to undermine the Seahawks offense, I have to say that this roster is talented. There's a reason why both Geno Smith and DK Metcalf 
+are highly paid, and their performance in Seattle showed it. However, this isn't to say they should have been retained at all costs. Looking at Geno, his 
+numbers had regressed since becomes the Seahawks starter in 2022. In particular, he had the most redzone interceptions among all starting QBs at 4 INTs, 
+as well as the 3rd most interceptions in the league (15).  At the end of the day, Geno needed to be extended, and the front office didn't see him as a long term solution.
+While I don't think Sam Darnold is going to take you to a superbowl, I do think the Seahawks did the right thing by parting ways with Geno.
+
+Image: IMG/RG.jpeg
+
+Text: Speaking of this offense, the main kicker for the Seahawks was how lackluster their lackluster their execution was. Offensive Coordinator Ryan Grubb 
+was not a terrible offensive coordinator by any means, but also not the Shanahan-McVay everyone wants. Many times, there was confusion on what was going on,
+and many of the play calls were either predictable or not very creative. Grubb wasn't able to deploy Lockett well, and the offense stalled. They were 19th in offensive EPA per play,
+20th in EPA per pass, and 19th in EPA per rush. These aren't bad metrics, but there is definetly areas for improvement here. Additionally, this team was 28th in league in rushing 
+yards lash year (1,627 yards), but 12th in rushing TDs (17). Obviously, they had to compensate for Geno's redzone interceptions, but this rushing attack was just 
+uninspiring. At the end of the day, Grubb’s and Macdonalds's philophies didn't align with the direction of the offense, and thus they parted ways.
+
+Text: The worst part of the Seahawks offense was their offensive line. Along with injuries to Abraham Lucas, Anthony Bradford, and the retiring of Center Connor Williams
+midway through the season, this unit just could not protect Geno. PFF gave them a 57.7 pass blocking grade. The front 5 had a 39.4% pressure rate (30th) and an 8.3% 
+sack rate (24th). Now granted, a lot of offensive lines across the league struggled, whether it was depth or pass and run blocking. Regardless, it's important to always improve
+your weaknesses, and the seahawks did just that this offseason. 
+
+Image: IMG/KK.jpeg
+
+Text: The first thing to do was to reset the offensive coaching staff. With Ryan Grubb out, MacDonald needed a playcaller on the same wave length, someone 
+who could direct the offense to score points, run time off the clock, and not make costly turnovers. In comes Klint Kubiak, son of legend Gary Kubiak. Klint's 
+last stint was a one year OC position with the New Orleans Saints, where he showcased his offensive prowess in the first two weeks by putting up back to back 
+40 point games.
+
+Text: Even when the season fell apart with injuries and Dennis Allen's firing, Kubiak was able to keep the offense afloat. The 2024 Saints were 15th in 
+sack rate (6.02%) compared to the '24 Seahawks at 25th (8.04%). Additionally, the Saints were 18th in INT percentage (2.18%), 14th in rushing yards (1954 yards),
+and 11th in EPA per rush. While these aren't insane offensive numbers, this is proof that Kubiak knows how to bring production to moving the ball up and down the 
+field. His time with the 49ers as their QB coach in 2023 helped him understand the Shanahan system to the extent of mastering its timing, spacing, and run-pass balance.
+With this knowledge, Kubiak brings a blueprint that could finally unlock consistency and rhythm that Mike MacDonald envsions. 
+
+
+Image: IMG/OC_KUB.jpg
+
+Text: A major reason for the offensive upheaval was the firing of OC Ryan Grubb. Grubb’s vision never meshed with MacDonald’s, especially on 
+the run/pass balance. The Seahawks ranked 19th in offensive EPA/play and 28th in rushing yards. Klint Kubiak, known for his Shanahan-style 
+run game, comes in to restore rhythm and ball control. It’s a much better scheme fit for a team trying to hide O-line issues and protect 
+its QB.
+
+Image: IMG/JSN_KUPP.jpg
+
+Text: The WR room looks different too. Tyler Lockett is gone. DK is gone. This is now Jaxon Smith-Njigba’s room. To help him, the Seahawks 
+brought in Cooper Kupp and Marquez Valdes-Scantling—both familiar with the offensive system. Kupp’s health remains a question, but if he 
+stays upright, he’s the perfect safety valve.
+
+Image: IMG/OL_CHANGE.jpg
+
+Text: The offensive line is still a concern. They drafted OT Grey Zabel 18th overall and picked up Charles Cross’ 5th-year option, but 
+the health of Abraham Lucas and Anthony Bradford is still up in the air. Connor Williams retiring (again) would be a blow. The hope is 
+that Zabel and added depth will stabilize the group, but that’s far from a guarantee.
+
+Image: IMG/DEF_RET.jpg
+
+Text: On defense, the Seahawks retained ILB Ernest Jones, DT Jarran Reed, and CB Josh Jobe. They added CB Shemar Jean-Charles and drafted 
+Kam Chancellor-sized safety Nick Emmanwori in the second round. The defense was already 11th in EPA/play last year and should improve with 
+continuity.
+
+Image: IMG/FUTURE.jpg
+
+Text: This rebuild isn't just a salary dump. It’s a calculated reset. Seattle's offense had peaked in 2024. They dumped stars, changed 
+coordinators, and retooled through the draft and free agency. That comes at a cost—$67 million in dead cap—but now the Seahawks are younger, 
+cheaper, and hopefully more aligned. 
+
+Text: Vegas has them at 8.5 wins. I'm taking the over. This team isn’t built to win shootouts, but they can grind out wins. I see them 
+going 9-8 and splitting the NFC West 3-3. The ceiling isn’t elite—but the floor isn’t rock bottom either. For a team in transition, that’s 
+a good start.
+
+References:
+https://www.seahawks.com/team/transactions/
+https://web.archive.org/web/20250210072939/https://www.spotrac.com/nfl/seattle-seahawks/cap/_/year/2025 [1]
+https://www.spotrac.com/nfl/seattle-seahawks/overview [2]
+https://www.spotrac.com/nfl/player/_/id/25275/marquez-valdes-scantling
+https://www.spotrac.com/nfl/player/_/id/14443/demarcus-lawrence/contract/cash
+https://www.spotrac.com/nfl/player/_/id/25098/sam-darnold
+https://www.spotrac.com/nfl/player/_/id/21811/cooper-kupp
+https://www.spotrac.com/nfl/player/_/id/72562/shemar-jean-charles
+https://www.espn.com/nfl/team/depth/_/name/sea
+https://sports.mynorthwest.com/bump-and-stacy/what-was-the-seattle-seahawks-biggest-mistake-in-2024/1794709
+https://sports.mynorthwest.com/nfl/seattle-seahawks/what-seattle-seahawks-abraham-lucas-said-knee/1812761
+https://www.reddit.com/r/Seahawks/comments/1hv6ckk/exclusive_seahawks_coach_mike_macdonald_explains/?share_id=i04hQzTQv50YOAlNDFkc0&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
+https://www.reddit.com/r/Seahawks/comments/1hz4ptp/why_was_ryan_grubb_fired/
+https://justblogbaby.com/seahawks-expert-gives-honest-review-of-raiders-geno-smith-ahead-of-2025-season-01jzv8c5p3st#
+https://sumersports.com/teams/offensive/
+https://www.pro-football-reference.com/teams/sea/2024.htm
+https://www.si.com/nfl/seahawks/seahawks-2025-nfl-draft-nick-emmanwori-titans-trade
+https://www.si.com/nfl/seahawks/seahawks-news/mike-macdonald-s-defense-with-seattle-seahawks-hinges-on-players-not-scheme
+https://www.youtube.com/shorts/MF3jLN6dDqI
+https://www.profootballnetwork.com/tyler-lockett-pens-emotional-farewell-message-to-geno-smith-dk-metcalf-seahawks-era-comes-to-close/
+https://apnews.com/article/seahawks-ryan-grubb-3d2deb905aa1612760a18ef9e46182fa
+https://fox5sandiego.com/sports/sports-illustrated/6ca06f6d/nfl-fans-were-stunned-after-geno-smith-threw-horrendous-pick-six-late-vs-rams/
+https://albanyherald.com/sports/pro-football-networks-nfl-offensive-line-rankings/
+https://www.seattletimes.com/sports/seahawks/heres-one-big-reason-klint-kubiak-wanted-to-be-seahawks-offensive-coordinator/
